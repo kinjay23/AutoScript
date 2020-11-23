@@ -13,7 +13,7 @@ PASS = ''
 # CONST
 BUFLEN = 4096 * 4
 TIMEOUT = 60
-DEFAULT_HOST = '127.0.0.1:22'
+DEFAULT_HOST = '127.0.0.1:443'
 RESPONSE = 'HTTP/1.1 200 <font color="red">PhCyber Lang Malakas</font>\r\n\r\n'
 
 
